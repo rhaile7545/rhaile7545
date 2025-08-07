@@ -43,9 +43,9 @@ Full enterprise lab setup with 7 VMs, red team attacks, and defensive monitoring
 
 ### 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-handle)
-- 📧 robelhaile@example.com
-- 🌐 [My GitHub Portfolio](https://github.com/YourUsername)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/robel-haile-a22b62239/)
+- 📧 rlhaile7545@gmail.com
+- 🌐 [My GitHub Portfolio](https://github.com/rhaile7545)
 
 ---
 
