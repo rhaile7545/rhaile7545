@@ -25,10 +25,10 @@ My goal is to continuously improve my skills while contributing to a safer digit
 
 ### 📁 Featured Projects
 
-🔹 [**So You Want to be a SOC Analyst**](https://github.com/rhaile7545/cybersecurity-projects/tree/main/so-you-want-to-be-a-soc-analyst)  
+🔹 [**So You Want to be a SOC Analyst**](https://github.com/rhaile7545/Security-projects/tree/main/so-you-want-to-be-a-soc-analyst)  
 Simulated SOC lab with endpoint visibility, threat simulation, and custom detection rules.
 
-🔹 [**Project Security: Red & Blue Team Lab**](https://github.com/rhaile7545/cybersecurity-projects/tree/main/project-security)  
+🔹 [**Project Security: Red & Blue Team Lab**](https://github.com/rhaile7545/Security-projects/tree/main/project-security)  
 Full enterprise lab setup with 7 VMs, red team attacks, and defensive monitoring.
 
 ---
