@@ -15,10 +15,10 @@ My goal is to continuously improve my skills while contributing to a safer digit
 
 ### 🧰 Skills & Tools
 
-- **Blue Team:** LimaCharlie EDR, Sysmon, Wazuh, Security Onion, ELK Stack
-- **Red Team:** Kali Linux, Evil-WinRM, Hydra, NetExec, SecLists
+- **Blue Team:** LimaCharlie EDR, Sysmon, Wazuh, Security Onion
+- **Red Team:** Kali Linux, Evil-WinRM, Hydra, NetExec
 - **Systems:** Windows Server 2025, Ubuntu, VirtualBox, Active Directory
-- **Scripting & Automation:** PowerShell, Bash (beginner)
+- **Scripting & Automation:** PowerShell, Python
 - **Networking:** TCP/IP, NAT, DNS, DHCP, VPNs
 
 ---
