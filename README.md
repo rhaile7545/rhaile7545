@@ -25,7 +25,7 @@ My goal is to continuously improve my skills while contributing to a safer digit
 
 ### 🎓 Certifications
 
-- 🏅 ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia&logoColor=white)
+- 🏅 ![CompTIA Security+](https://www.credly.com/earner/dashboard)
 
 ---
 
