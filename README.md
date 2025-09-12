@@ -23,6 +23,12 @@ My goal is to continuously improve my skills while contributing to a safer digit
 
 ---
 
+### 🎓 Certifications
+
+- 🏅 ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia&logoColor=white)
+
+---
+
 ### 📁 Featured Projects
 
 🔹 [**So You Want to be a SOC Analyst**](https://github.com/rhaile7545/Security-projects/tree/main/so-you-want-to-be-a-soc-analyst)  
